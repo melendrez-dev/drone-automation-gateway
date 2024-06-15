@@ -1,0 +1,26 @@
+{
+  "idcl": "algunCodigoUnicoParaElMonitor",
+  "Monitor": [
+    {
+      "Numero": "10",
+      "Estado": "00",
+      "Info": "00",
+      "HMens": "2024-06-05 20:32",
+      "Bateria": "12.60"
+    },
+    {
+      "Numero": "12",
+      "Estado": "00",
+      "Info": "00",
+      "HMens": "2024-06-05 20:37",
+      "Bateria": "13.52"
+    },
+    {
+      "Numero": "14",
+      "Estado": "01",
+      "Info": "20",
+      "HMens": "2024-06-05 20:37",
+      "Bateria": "12.87"
+    }
+  ]
+}
